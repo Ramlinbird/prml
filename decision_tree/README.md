@@ -1,4 +1,4 @@
-import treepredict
+```import treepredict
 
 # Test src data [Important]
 treepredict.my_data
@@ -54,3 +54,4 @@ pdata = hotornot.getpeopledata(l1)
 hottree = treepredict.buildtree(pdata, scoref=treepredict.variance)
 treepredict.prune(hottree, 0.5)
 treepredict.drawtree(hottree, 'hottree.jpg')
+```
