@@ -1,4 +1,5 @@
-```import treepredict
+```python
+import treepredict
 
 # Test src data [Important]
 treepredict.my_data
