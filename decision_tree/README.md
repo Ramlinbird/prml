@@ -1,3 +1,6 @@
+Follow are the using examples, you can directly type them in your cmd if you have set the python enviroment correctly. If you have any question or suggestions, please contact with me. Thanks for your watching!
+
+```python
 import treepredict
 
 # Test src data [Important]
@@ -54,3 +57,4 @@ pdata = hotornot.getpeopledata(l1)
 hottree = treepredict.buildtree(pdata, scoref=treepredict.variance)
 treepredict.prune(hottree, 0.5)
 treepredict.drawtree(hottree, 'hottree.jpg')
+```
