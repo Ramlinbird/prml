@@ -1,4 +1,4 @@
-Follow are the using examples, you can directly type them in your cmd if you have set the python enviroment correctly. If you have any question or suggestions, please contact with me. Thanks for your watching!
+Follow are the using examples, you can directly type them in your cmd if you have set the python enviroment correctly. If you have any question or suggestions, please contact with me.
 
 ```
 python
