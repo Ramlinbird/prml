@@ -1,7 +1,6 @@
 This time, I talk about KNN algorithm. And all you should do is following the python commands. Hope that you enjoy it!
 
-```
-python
+```python
 # construct kdtree, example of 2-dims data
 import kdtree
 point_list = [(2,3), (5,4), (9,6), (4,7), (8,1), (7,2)]
