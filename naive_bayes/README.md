@@ -1,6 +1,6 @@
 Naive bayes is often used to solve document filtering problem, like classfying whether an email is trash. Following, we will give the running tutor of such naive byes classfier. What's more, here we also give one other famous method named **Fisher Method** which is particularly for spam filtering.
 
-> HINTS: docclass.py and docclass_sqlite.py are nearly the say, but the storage method is differ. [docclass_sqlite.py NOT TESTED!]
+> Attention: **docclass.py** and **docclass_sqlite.py** are nearly the same, only with different storage method. And the latter is to be tested.
 
 ```python
 
