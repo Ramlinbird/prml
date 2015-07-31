@@ -3,3 +3,4 @@ This repository contains implementations of classical pattern recognition and ma
 
 # Reference
 * Programming Collective Intelligence: Building Smart Web 2.0 Applications, By Toby Segaran.
+* Python Machine Learning Library, scikit-learn: http://scikit-learn.org/stable/index.html.
