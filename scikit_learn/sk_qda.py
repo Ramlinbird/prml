@@ -13,7 +13,7 @@ plt.title('X Data Set Visualization')
 
 # Classification
 clf = QDA()
-clf.fit(X, y)
+clf = clf.fit(X, y)
 
 print(clf.predict([[-0.8, -1]]))
 plt.show()
